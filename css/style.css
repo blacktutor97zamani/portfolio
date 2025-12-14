@@ -24,6 +24,17 @@ h2 {
     color: #111;
 }
 
+label {
+    display: block; 
+    margin: 8px 0; 
+    font-size: 16px; 
+}
+
+input[type = "checkbox"] {
+    margin-right: 10px; 
+    transform: scale(1.2);
+}
+
 footer {
     text-align: center;
     padding: 15px;
